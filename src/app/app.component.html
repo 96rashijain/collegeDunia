@@ -1,50 +1,120 @@
-<h3 class="Colleges-in-North-India">Colleges in North India</h3>
+<div>
+  <h3 class="Colleges-in-North-India">Colleges in North India</h3>
 
-<table style="width: 100%;">
-  <tr
-    *ngFor="
-      let number of [
-        0,
-        2,
-        4,
-        6,
-        8,
-        10,
-        12,
-        14,
-        16,
-        18,
-        20,
-        22,
-        24,
-        26,
-        28,
-        30,
-        32,
-        34,
-        36,
-        38,
-        40,
-        42,
-        44,
-        46,
-        48
-      ]
-    "
-  >
-    <td class="leftPadding bottom-card-padding">
-      <div class="college-card">
-        <img src="..\assets\college_01.jpg" class="college-image" />
-        <div class="collegeName">{{ collegeData[number].college_name }}</div>
-      </div>
-    </td>
-    <td class="bottom-card-padding">
-      <div class="college-card">
-        <img src="..\assets\college_02.jpg" class="college-image" />
-        <div class="collegeName">
-          {{ collegeData[number + 1].college_name }}
+  <table style="width: 100%;">
+    <tr
+      *ngFor="
+        let number of [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48
+        ]
+      "
+    >
+      <td class="leftPadding bottom-card-padding">
+        <div class="college-card">
+          <div class="image1">
+            <div style="height: 20px; position: absolute;">
+              <button>hellllllllllllllllooooooooooo</button>
+            </div>
+            <div
+              style="
+                height: 178px;
+
+                margin-left: 545px;
+                margin-right: 15px;
+              "
+            >
+              <div
+                style="
+                  background-color: #f5a626;
+                  border-radius: 3.8px;
+                  padding: 8px;
+                "
+              >
+                <span class="outoffive">3.9/</span>
+                <span class="five">5</span>
+                <div class="veryGood">
+                  {{ collegeData[number].rating_remarks }}
+                </div>
+              </div>
+            </div>
+            <div style="text-align: left;">
+              <span class="bestCollege">{{ collegeData[number].tags[0] }}</span>
+              <span class="bestCollege">{{ collegeData[number].tags[1] }}</span>
+              <span class="ranking">{{ collegeData[number].ranking }}</span>
+            </div>
+          </div>
+
+          <div class="collegeName">{{ collegeData[number].college_name }}</div>
+          <fa-icon [icon]="filmIcon"></fa-icon>
         </div>
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+      <td class="bottom-card-padding">
+        <div class="college-card">
+          <div class="image2">
+            <div style="height: 20px;"></div>
+            <div
+              style="
+                height: 178px;
+
+                margin-left: 545px;
+                margin-right: 15px;
+              "
+            >
+              <div
+                style="
+                  background-color: #f5a626;
+                  border-radius: 3.8px;
+                  padding: 8px;
+                "
+              >
+                <span class="outoffive">3.9/</span>
+                <span class="five">5</span>
+                <div class="veryGood">
+                  {{ collegeData[number].rating_remarks }}
+                </div>
+              </div>
+            </div>
+            <div style="text-align: left;">
+              <span class="bestCollege">{{
+                collegeData[number + 1].tags[0]
+              }}</span>
+              <span class="bestCollege">{{
+                collegeData[number + 1].tags[1]
+              }}</span>
+              <span class="ranking">{{ collegeData[number + 1].ranking }}</span>
+            </div>
+          </div>
+
+          <div class="collegeName">
+            {{ collegeData[number + 1].college_name }}
+          </div>
+          <fa-icon [icon]="filmIcon"></fa-icon>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
