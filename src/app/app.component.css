@@ -1,0 +1,59 @@
+.Colleges-in-North-India {
+    width: 180px;
+    height: 18px;
+    font-family: DINPro;
+    font-size: 18.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.97;
+    letter-spacing: normal;
+    text-align: left;
+    color: #444444;
+    margin: 0px !important;
+    padding-top: 49px;
+    padding-left: 56px;
+    padding-bottom: 68.7px;
+}
+
+
+
+.college-card {
+    Text-align: center;
+    width: 639px;
+    height: 377px;
+    border-radius: 3.8px;
+    box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
+    border: solid 0.2px #444444;
+    background-color: #ffffff;
+}
+
+.leftPadding {
+    padding-left: 48px;
+}
+
+.college-image {
+    width: 637.3px;
+    height: 233.2px;
+}
+
+.bottom-card-padding {
+    padding-bottom: 74.7px;
+}
+
+.collegeName {
+    width: 260px;
+    height: 17px;
+    font-family: DINPro;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.97;
+    letter-spacing: normal;
+    text-align: center;
+    color: #444444;
+    padding-left: 17px;
+    padding-top: 18px;
+    width: max-content;
+}
