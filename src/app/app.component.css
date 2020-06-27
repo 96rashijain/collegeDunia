@@ -3,7 +3,7 @@
   height: 18px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 18.5px;
-  font-weight: 500;
+  font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: 0.97;
@@ -14,6 +14,14 @@
   padding-top: 49px;
   padding-left: 56px;
   padding-bottom: 68.7px;
+}
+
+.arrow-right {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 12px solid transparent;
+  border-left: 28px solid white;
 }
 
 .college-card {
@@ -39,6 +47,7 @@
   padding-bottom: 74.7px;
 }
 
+
 .collegeName {
   width: 260px;
   height: 17px;
@@ -52,24 +61,103 @@
   text-align: center;
   color: #444444;
   padding-left: 17px;
-  padding-top: 18px;
+  padding-top: 20px !important;
   width: max-content;
+  padding-top: 10px;
 }
+
+.original-fees {
+  color: #444444;
+  text-decoration: line-through;
+  padding-left: 188px;
+}
+
+
+
+.checked {
+  color: rgb(0, 0, 0);
+}
+
+.un-checked {
+  color: gainsboro;
+}
+
+.background-color {
+  background-color: #7ef7da79;
+  padding-top: 8px;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding-bottom: 8px;
+}
+
+/* .text-image {
+  background-image: url("..\assets\discount.png");
+  height: 100%;
+  width: 100%;
+} */
 
 .image1 {
   background-repeat: no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url("..\assets\college_01.jpg");
-  width: 637.3px;
+  width: 640px;
   height: 233.2px;
   background-size: cover;
+}
+
+.logo1 {
+  /* background-repeat: no-repeat;
+  background-image: url("..\assets\logo1.png");
+  width: 50px;
+  height: 20px;
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg); */
+  position: absolute;
+  top: -10px;
+  left: 501px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  background-color: #68a7ff;
+  font-family: "DINPro-Regular";
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.logo2 {
+  position: absolute;
+  top: -10px;
+  left: 900px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  background-color: #68a7ff;
+  font-family: "DINPro-Regular";
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.myimage {
+  background:
+    url("..\assets\logo2.png");
+  background-size: cover;
+  width: 38px;
+  height: 15px;
+  padding: 0px;
+  display: inline-block;
 }
 
 .image2 {
   background-repeat: no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url("..\assets\college_02.jpg");
-  width: 637.3px;
+  width: 640px;
   height: 233.2px;
   background-size: cover;
 }
@@ -127,4 +215,32 @@
   font-weight: bold;
   width: max-content;
   font-family: "DINPro-Regular";
+}
+
+.pointer {
+  color: #000;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 300px;
+  width: 100px;
+  height: 250px;
+  border-radius: 0 0 1px 1px;
+  border-top: solid 10px currentColor;
+  border-left: solid 10px currentColor;
+  border-right: solid 10px currentColor;
+}
+
+.pointer:before {
+  content: '';
+  position: absolute;
+  top: 203px;
+  left: 8px;
+  width: 75px;
+  height: 75px;
+  border-radius: 0 0 10px 10px;
+  z-index: -1;
+  border-top: solid 10px currentColor;
+  border-left: solid 10px currentColor;
+  -webkit-transform: rotate(48deg);
+  transform: rotate(45deg);
 }

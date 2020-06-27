@@ -13,12 +13,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 2",
@@ -33,12 +45,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 3",
@@ -53,12 +77,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 4",
@@ -73,12 +109,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 5",
@@ -93,12 +141,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 6",
@@ -113,12 +173,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 7",
@@ -133,12 +205,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 8",
@@ -153,12 +237,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 9",
@@ -173,12 +269,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 10",
@@ -193,12 +301,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 11",
@@ -213,12 +333,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 12",
@@ -233,12 +365,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 13",
@@ -253,12 +397,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 14",
@@ -273,12 +429,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 15",
@@ -293,12 +461,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 16",
@@ -313,12 +493,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 17",
@@ -333,12 +525,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 18",
@@ -353,12 +557,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 19",
@@ -373,12 +589,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 20",
@@ -393,12 +621,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 21",
@@ -413,12 +653,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 22",
@@ -433,12 +685,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 23",
@@ -453,12 +717,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 24",
@@ -473,12 +749,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 25",
@@ -493,12 +781,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 26",
@@ -513,12 +813,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 27",
@@ -533,12 +845,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 28",
@@ -553,12 +877,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 29",
@@ -573,12 +909,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 30",
@@ -593,12 +941,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 31",
@@ -613,12 +973,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 32",
@@ -633,12 +1005,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 33",
@@ -653,12 +1037,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 34",
@@ -673,12 +1069,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 35",
@@ -693,12 +1101,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 36",
@@ -713,12 +1133,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 37",
@@ -733,12 +1165,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 38",
@@ -753,12 +1197,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 39",
@@ -773,12 +1229,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 40",
@@ -793,12 +1261,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 41",
@@ -813,12 +1293,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 42",
@@ -833,12 +1325,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 43",
@@ -853,12 +1357,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 44",
@@ -873,12 +1389,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 45",
@@ -893,12 +1421,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 46",
@@ -913,12 +1453,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 47",
@@ -933,12 +1485,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 48",
@@ -953,12 +1517,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 49",
@@ -973,12 +1549,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     },
     {
       "college_name": "Hansraj College Delhi University - 50",
@@ -993,12 +1581,24 @@
       "amenties": ["Fee cancellation", "Free Wifi"],
       "rating": 4,
       "rating_remarks": "Very Good",
-      "famous_nearest_places": "2.5kms from GTB Nagar, 7 Kms from Rajiv Chowk",
+      "famous_nearest_places": [
+        "2.5kms",
+        "from GTB Nagar",
+        "7 Kms",
+        "from Rajiv Chowk"
+      ],
       "nearest_place": [
         "Near Vishwavidyalya Metro Station",
         "2 Kms away from bus stand"
       ],
-      "offertext": "Flat Rs2,000 off + upto Rs 500 wallet! to avail... LOGIN "
+      "offertext": [
+        "Flat Rs ",
+        "2,000",
+        " off + upto Rs ",
+        "500",
+        " wallet! to avail... ",
+        "LOGIN "
+      ]
     }
   ]
 }
