@@ -1,7 +1,7 @@
 .Colleges-in-North-India {
   width: max-content;
   height: 18px;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: DINPro;
   font-size: 18.5px;
   font-weight: bold;
   font-stretch: normal;
@@ -12,16 +12,26 @@
   color: #444444;
   margin: 0px !important;
   padding-top: 49px;
-  padding-left: 56px;
+  padding-left: 89px;
   padding-bottom: 68.7px;
 }
 
-.arrow-right {
-  width: 0;
-  height: 0;
-  border-top: 10px solid transparent;
-  border-bottom: 12px solid transparent;
-  border-left: 28px solid white;
+.match {
+  color: #37b396;
+  font-size: 14px;
+}
+
+.ratingBox {
+  background-color: #f5a626;
+  border-radius: 3.8px;
+  padding: 8px;
+}
+
+.emptyDiv {
+  height: 173px;
+
+  margin-left: 545px;
+  margin-right: 15px;
 }
 
 .college-card {
@@ -35,7 +45,7 @@
 }
 
 .leftPadding {
-  padding-left: 48px;
+  padding-left: 85px;
 }
 
 .college-image {
@@ -47,11 +57,10 @@
   padding-bottom: 74.7px;
 }
 
-
 .collegeName {
   width: 260px;
   height: 17px;
-  font-family: "DINPro-Regular";
+  font-family: "DINPro-Medium";
   font-size: 15px;
   font-weight: bold;
   font-stretch: normal;
@@ -64,15 +73,74 @@
   padding-top: 20px !important;
   width: max-content;
   padding-top: 10px;
+  text-align: left;
+  padding-left: 0px;
+}
+
+.clgNameSpan {
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+.discountClass {
+  color: white;
+  padding-left: 13px;
+  font-size: 12px;
+}
+
+.nearestPlace1 {
+  padding-left: 20px;
+  margin-bottom: 0px;
+  margin-top: 4px;
+}
+
+.nearestPlace2 {
+  padding-left: 5px;
+  font-size: 15px;
+  padding-right: 5px;
 }
 
 .original-fees {
   color: #444444;
   text-decoration: line-through;
-  padding-left: 188px;
+  padding-left: 168px;
+  font-size: 13px;
 }
 
+.discountedFees {
+  padding-left: 93px;
+  color: red;
+  font-size: 28px;
+}
 
+.commaSpan {
+  color: #37b396;
+  font-size: 14px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 14px;
+}
+
+.amenities0 {
+  color: #37b396;
+  padding-left: 78px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.amenities1 {
+  padding-left: 3px;
+  color: #37b396;
+  padding-right: 3px;
+  font-size: 20px;
+}
+
+.feesCycle {
+  font-size: 12px;
+  color: silver;
+  display: block;
+  padding-left: 470px;
+}
 
 .checked {
   color: rgb(0, 0, 0);
@@ -84,17 +152,11 @@
 
 .background-color {
   background-color: #7ef7da79;
-  padding-top: 8px;
+  padding-top: 10px;
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
-  padding-bottom: 8px;
+  padding-bottom: 10px;
 }
-
-/* .text-image {
-  background-image: url("..\assets\discount.png");
-  height: 100%;
-  width: 100%;
-} */
 
 .image1 {
   background-repeat: no-repeat;
@@ -106,46 +168,27 @@
 }
 
 .logo1 {
-  /* background-repeat: no-repeat;
-  background-image: url("..\assets\logo1.png");
-  width: 50px;
-  height: 20px;
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg); */
   position: absolute;
-  top: -10px;
-  left: 501px;
+  top: -36px;
+  left: 538px;
   padding-left: 50px;
   padding-right: 50px;
   padding-bottom: 9px;
   padding-top: 9px;
   background-color: #68a7ff;
-  font-family: "DINPro-Regular";
+  font-family: "DINPro-Medium";
   font-size: 16px;
   font-weight: 500;
   color: #ffffff;
-}
-
-.logo2 {
-  position: absolute;
-  top: -10px;
-  left: 900px;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 9px;
-  padding-top: 9px;
-  background-color: #68a7ff;
-  font-family: "DINPro-Regular";
-  font-size: 16px;
-  font-weight: 500;
-  color: #ffffff;
+  background: url("../assets/uselogo.png");
+  background-size: cover;
+  width: 118px;
+  height: 56px;
+  text-align: initial;
 }
 
 .myimage {
-  background:
-    url("..\assets\logo2.png");
+  background: url("..\assets\logo2.png");
   background-size: cover;
   width: 38px;
   height: 15px;
@@ -174,7 +217,7 @@
   margin: 6px;
   width: 100px;
   height: 13px;
-  font-family: "DINPro-Regular";
+  font-family: "DINPro-Medium";
   font-size: 13.5px;
   font-weight: 500;
   text-align: left;
@@ -188,7 +231,7 @@
   border-radius: 16.5px;
   margin: 6px;
   height: 13px;
-  font-family: "DINPro-Regular";
+  font-family: "DINPro-Medium";
   font-size: 14px;
   letter-spacing: normal;
   text-align: left;
@@ -199,14 +242,14 @@
   color: white;
   font-size: 19px;
   font-weight: bolder;
-  font-family: "DINPro-Regular";
+  font-family: "DINPro-Medium";
 }
 
 .five {
   color: white;
   font-size: 14px;
   font-weight: bold;
-  font-family: "DINPro-Regular";
+  font-family: "DINPro-Medium";
 }
 
 .veryGood {
@@ -214,33 +257,5 @@
   font-size: 14px;
   font-weight: bold;
   width: max-content;
-  font-family: "DINPro-Regular";
-}
-
-.pointer {
-  color: #000;
-  position: absolute;
-  margin-left: 500px;
-  margin-top: 300px;
-  width: 100px;
-  height: 250px;
-  border-radius: 0 0 1px 1px;
-  border-top: solid 10px currentColor;
-  border-left: solid 10px currentColor;
-  border-right: solid 10px currentColor;
-}
-
-.pointer:before {
-  content: '';
-  position: absolute;
-  top: 203px;
-  left: 8px;
-  width: 75px;
-  height: 75px;
-  border-radius: 0 0 10px 10px;
-  z-index: -1;
-  border-top: solid 10px currentColor;
-  border-left: solid 10px currentColor;
-  -webkit-transform: rotate(48deg);
-  transform: rotate(45deg);
+  font-family: "DINPro-Medium";
 }

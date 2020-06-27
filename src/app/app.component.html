@@ -1,73 +1,31 @@
-<div>
+<!-- CollegeDunia test-1 project -->
+
+<div id="myScroll" onscroll="scrollFunction($event)">
+  <!-- College name heading -->
   <h3 class="Colleges-in-North-India">Colleges in North India</h3>
 
   <table style="width: 100%;">
-    <tr
-      *ngFor="
-        let number of [
-          0,
-          2,
-          4,
-          6,
-          8,
-          10,
-          12,
-          14,
-          16,
-          18,
-          20,
-          22,
-          24,
-          26,
-          28,
-          30,
-          32,
-          34,
-          36,
-          38,
-          40,
-          42,
-          44,
-          46,
-          48
-        ]
-      "
-    >
+    <tr *ngFor="let number of number">
       <td class="leftPadding bottom-card-padding" style="position: relative;">
         <div class="college-card">
           <div class="image1">
-            <div style="height: 35px;"></div>
-            <!-- <div
-              style="
-                width: 100%;
-                height: 100%;
-                position: absolute;
-                top: 0;
-                left: 0;
-                opacity: 0.8;
-              "
-            >
-              <button>hellllllllllllllllooooooooooo</button>
-            </div> -->
-
-            <div class="logo1">
-              PROMOTED
-            </div>
-            <div
-              style="
-                height: 165px;
-
-                margin-left: 545px;
-                margin-right: 15px;
-              "
-            >
-              <div
+            <div style="height: 28px;"></div>
+            <span class="logo1"
+              ><span
                 style="
-                  background-color: #f5a626;
-                  border-radius: 3.8px;
-                  padding: 8px;
+                  padding-top: 20px !important;
+                  position: absolute;
+                  padding-left: 34px;
                 "
-              >
+                >PROMOTED</span
+              ></span
+            >
+
+            <!-- <div>
+              PROMOTED
+            </div> -->
+            <div class="emptyDiv">
+              <div class="ratingBox">
                 <span class="outoffive">3.9/</span>
                 <span class="five">5</span>
                 <div class="veryGood">
@@ -82,19 +40,21 @@
             </div>
           </div>
 
-          <div class="collegeName" style="text-align: left; padding-left: 0px;">
-            <span style="font-size: 16px; padding-left: 20px;">{{
-              collegeData[number + 1].college_name
+          <div class="collegeName">
+            <span class="clgNameSpan">{{
+              collegeData[number].college_name
             }}</span
             ><span style="padding-left: 15px;">
               <fa-icon class="checked" [icon]="filmIcon"></fa-icon>
             </span>
-            <span> <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
-            ><span>
+            <span style="padding-left: 3px;">
+              <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
+            ><span style="padding-left: 3px;">
               <fa-icon class="checked" [icon]="filmIcon"></fa-icon>
             </span>
-            <span> <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
-            ><span>
+            <span style="padding-left: 3px;">
+              <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
+            ><span style="padding-left: 3px;">
               <fa-icon class="un-checked" [icon]="filmIcon"></fa-icon>
             </span>
             <!-- <span class="text-image">{{ collegeData[number].discount }}</span> -->
@@ -102,36 +62,27 @@
               >&#8377;{{ collegeData[number].original_fees }}</span
             >
             <div class="myimage">
-              <span
-                style="color: white; padding-left: 13px; font-size: 12px;"
-                >{{ collegeData[number].discount }}</span
-              >
+              <span class="discountClass">{{
+                collegeData[number].discount
+              }}</span>
               <!-- <fa-icon [icon]="tagIcon"></fa-icon> -->
             </div>
 
-            <p style="padding-left: 20px; margin-bottom: 0px; margin-top: 4px;">
+            <p class="nearestPlace1">
               <span>{{ collegeData[number].nearest_place[0] }}</span
-              ><span
-                style="padding-left: 5px; font-size: 15px; padding-right: 5px;"
-                >|</span
+              ><span class="nearestPlace2">|</span
               ><span style="color: #c3c3c3;">{{
                 collegeData[number].nearest_place[1]
               }}</span
-              ><span style="padding-left: 85px; color: red; font-size: 28px;"
+              ><span class="discountedFees"
                 >&#8377; {{ collegeData[number].discounted_fees }}</span
               >
-              <span
-                style="
-                  font-size: 12px;
-                  color: silver;
-                  display: block;
-                  padding-left: 490px;
-                "
-                >{{ collegeData[number].fees_cycle }}</span
-              >
+              <span class="feesCycle">{{
+                collegeData[number].fees_cycle
+              }}</span>
             </p>
             <p style="padding-left: 20px; margin-top: 0px;">
-              <span style="color: #37b396; font-size: 14px;">93% Match :</span
+              <span class="match;">93% Match :</span
               ><span style="padding-left: 3px; font-size: 12px;">{{
                 collegeData[number].famous_nearest_places[0]
               }}</span>
@@ -139,16 +90,7 @@
                 style="padding-left: 3px; font-size: 12px; color: #c3c3c3;"
                 >{{ collegeData[number].famous_nearest_places[1] }}</span
               >
-              <span
-                style="
-                  color: #37b396;
-                  font-size: 14px;
-                  padding-left: 2px;
-                  padding-right: 2px;
-                  font-size: 14px;
-                "
-                >,</span
-              >
+              <span class="commaSpan">,</span>
               <span style="padding-left: 3px; font-size: 12px;">{{
                 collegeData[number].famous_nearest_places[2]
               }}</span>
@@ -177,28 +119,14 @@
                   collegeData[number].offertext[4]
                 }}</span>
                 <span
-                  style="font-size: 14px; color: #1999d2; padding-right: 20px;"
+                  style="font-size: 14px; color: #1999d2; padding-right: 15px;"
                   >{{ collegeData[number].offertext[5] }}</span
                 ></span
               >
-              <span
-                style="
-                  color: #37b396;
-                  padding-left: 80px;
-                  font-size: 14px;
-                  font-weight: bold;
-                "
-                >{{ collegeData[number].amenties[0] }}</span
-              >
-              <span
-                style="
-                  padding-left: 3px;
-                  color: #37b396;
-                  padding-right: 3px;
-                  font-size: 20px;
-                "
-                >.</span
-              >
+              <span class="amenities0">{{
+                collegeData[number].amenties[0]
+              }}</span>
+              <span class="amenities1">.</span>
               <span style="font-size: 12px; color: #37b396;">{{
                 collegeData[number].amenties[1]
               }}</span>
@@ -209,125 +137,95 @@
       <td class="leftPadding bottom-card-padding" style="position: relative;">
         <div class="college-card">
           <div class="image2">
-            <div style="height: 35px;"></div>
-            <!-- <div
-                  style="
-                    width: 100%;
-                    height: 100%;
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    opacity: 0.8;
-                  "
-                >
-                  <button>hellllllllllllllllooooooooooo</button>
-                </div> -->
+            <div style="height: 28px;"></div>
 
-            <div class="logo1">
-              <span>PROMOTED</span>
-            </div>
-            <div
-              style="
-                height: 165px;
-
-                margin-left: 545px;
-                margin-right: 15px;
-              "
-            >
-              <div
+            <span class="logo1"
+              ><span
                 style="
-                  background-color: #f5a626;
-                  border-radius: 3.8px;
-                  padding: 8px;
+                  padding-top: 20px !important;
+                  position: absolute;
+                  padding-left: 34px;
                 "
-              >
+                >PROMOTED</span
+              ></span
+            >
+            <div class="emptyDiv">
+              <div class="ratingBox">
                 <span class="outoffive">3.9/</span>
                 <span class="five">5</span>
                 <div class="veryGood">
-                  {{ collegeData[number].rating_remarks }}
+                  {{ collegeData[number + 1].rating_remarks }}
                 </div>
               </div>
             </div>
             <div style="text-align: left;">
-              <span class="bestCollege">{{ collegeData[number].tags[0] }}</span>
-              <span class="bestCollege">{{ collegeData[number].tags[1] }}</span>
-              <span class="ranking">{{ collegeData[number].ranking }}</span>
+              <span class="bestCollege">{{
+                collegeData[number + 1].tags[0]
+              }}</span>
+              <span class="bestCollege">{{
+                collegeData[number + 1].tags[1]
+              }}</span>
+              <span class="ranking">{{ collegeData[number + 1].ranking }}</span>
             </div>
           </div>
 
-          <div class="collegeName" style="text-align: left; padding-left: 0px;">
-            <span style="font-size: 16px; padding-left: 20px;">{{
-              collegeData[number].college_name
+          <div class="collegeName">
+            <span class="clgNameSpan">{{
+              collegeData[number + 1].college_name
             }}</span
             ><span style="padding-left: 15px;">
               <fa-icon class="checked" [icon]="filmIcon"></fa-icon>
             </span>
-            <span> <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
-            ><span>
+            <span style="padding-left: 3px;">
+              <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
+            ><span style="padding-left: 3px;">
               <fa-icon class="checked" [icon]="filmIcon"></fa-icon>
             </span>
-            <span> <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
-            ><span>
+            <span style="padding-left: 3px;">
+              <fa-icon class="checked" [icon]="filmIcon"></fa-icon> </span
+            ><span style="padding-left: 3px;">
               <fa-icon class="un-checked" [icon]="filmIcon"></fa-icon>
             </span>
             <!-- <span class="text-image">{{ collegeData[number].discount }}</span> -->
             <span class="original-fees"
-              >&#8377;{{ collegeData[number].original_fees }}</span
+              >&#8377;{{ collegeData[number + 1].original_fees }}</span
             >
             <div class="myimage">
-              <span
-                style="color: white; padding-left: 13px; font-size: 12px;"
-                >{{ collegeData[number].discount }}</span
-              >
+              <span class="discountClass">{{
+                collegeData[number + 1].discount
+              }}</span>
               <!-- <fa-icon [icon]="tagIcon"></fa-icon> -->
             </div>
 
-            <p style="padding-left: 20px; margin-bottom: 0px; margin-top: 4px;">
-              <span>{{ collegeData[number].nearest_place[0] }}</span
-              ><span
-                style="padding-left: 5px; font-size: 15px; padding-right: 5px;"
-                >|</span
+            <p class="nearestPlace1">
+              <span>{{ collegeData[number + 1].nearest_place[0] }}</span
+              ><span class="nearestPlace2">|</span
               ><span style="color: #c3c3c3;">{{
-                collegeData[number].nearest_place[1]
+                collegeData[number + 1].nearest_place[1]
               }}</span
-              ><span style="padding-left: 85px; color: red; font-size: 28px;"
-                >&#8377; {{ collegeData[number].discounted_fees }}</span
+              ><span class="discountedFees"
+                >&#8377; {{ collegeData[number + 1].discounted_fees }}</span
               >
-              <span
-                style="
-                  font-size: 12px;
-                  color: silver;
-                  display: block;
-                  padding-left: 490px;
-                "
-                >{{ collegeData[number].fees_cycle }}</span
-              >
+              <span class="feesCycle">{{
+                collegeData[number + 1].fees_cycle
+              }}</span>
             </p>
             <p style="padding-left: 20px; margin-top: 0px;">
               <span style="color: #37b396; font-size: 14px;">93% Match :</span
               ><span style="padding-left: 3px; font-size: 12px;">{{
-                collegeData[number].famous_nearest_places[0]
+                collegeData[number + 1].famous_nearest_places[0]
               }}</span>
               <span
                 style="padding-left: 3px; font-size: 12px; color: #c3c3c3;"
-                >{{ collegeData[number].famous_nearest_places[1] }}</span
+                >{{ collegeData[number + 1].famous_nearest_places[1] }}</span
               >
-              <span
-                style="
-                  color: #37b396;
-                  font-size: 14px;
-                  padding-left: 2px;
-                  padding-right: 2px;
-                  font-size: 14px;
-                "
-                >,</span
-              >
+              <span class="commaSpan">,</span>
               <span style="padding-left: 3px; font-size: 12px;">{{
-                collegeData[number].famous_nearest_places[2]
+                collegeData[number + 1].famous_nearest_places[2]
               }}</span>
               <span
                 style="padding-left: 3px; font-size: 12px; color: #c3c3c3;"
-                >{{ collegeData[number].famous_nearest_places[3] }}</span
+                >{{ collegeData[number + 1].famous_nearest_places[3] }}</span
               >
             </p>
             <p>
@@ -335,45 +233,31 @@
                 class="background-color"
                 style="background-color: #7ef7da79;"
                 ><span style="font-size: 14px; padding-left: 20px;">{{
-                  collegeData[number].offertext[0]
+                  collegeData[number + 1].offertext[0]
                 }}</span>
                 <span style="font-size: 14px; color: #4bb89e;">{{
-                  collegeData[number].offertext[1]
+                  collegeData[number + 1].offertext[1]
                 }}</span>
                 <span style="font-size: 14px;">{{
-                  collegeData[number].offertext[2]
+                  collegeData[number + 1].offertext[2]
                 }}</span>
                 <span style="font-size: 14px; color: #4bb89e;">{{
-                  collegeData[number].offertext[3]
+                  collegeData[number + 1].offertext[3]
                 }}</span>
                 <span style="font-size: 14px;">{{
-                  collegeData[number].offertext[4]
+                  collegeData[number + 1].offertext[4]
                 }}</span>
                 <span
-                  style="font-size: 14px; color: #1999d2; padding-right: 20px;"
-                  >{{ collegeData[number].offertext[5] }}</span
+                  style="font-size: 14px; color: #1999d2; padding-right: 15px;"
+                  >{{ collegeData[number + 1].offertext[5] }}</span
                 ></span
               >
-              <span
-                style="
-                  color: #37b396;
-                  padding-left: 80px;
-                  font-size: 14px;
-                  font-weight: bold;
-                "
-                >{{ collegeData[number].amenties[0] }}</span
-              >
-              <span
-                style="
-                  padding-left: 3px;
-                  color: #37b396;
-                  padding-right: 3px;
-                  font-size: 20px;
-                "
-                >.</span
-              >
+              <span class="amenities0">{{
+                collegeData[number + 1].amenties[0]
+              }}</span>
+              <span class="amenities1">.</span>
               <span style="font-size: 12px; color: #37b396;">{{
-                collegeData[number].amenties[1]
+                collegeData[number + 1].amenties[1]
               }}</span>
             </p>
           </div>
@@ -381,14 +265,7 @@
       </td>
     </tr>
   </table>
+  <div style="font-size: 20px; color: red; text-align: center;">
+    {{ collegeShow }}
+  </div>
 </div>
-
-<!-- style="
-z-index: 20;
-margin: 20px;
-width: 100%;
-height: 100%;
-position: absolute;
-top: -30px;
-left: 207px;
-" -->

@@ -2,10 +2,9 @@ import { Component } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 import * as data from "./colleges.json";
 import { faExclamationCircle } from "@fortawesome/free-solid-svg-icons";
-// import {  } from "@fortawesome/free-solid-svg-icons";;
-// import { faStar } from "@fortawesome/free-regular-svg-icons";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { faTag } from "@fortawesome/free-solid-svg-icons";
+import * as $ from "jquery";
 
 @Component({
   selector: "app-root",
@@ -17,31 +16,37 @@ export class AppComponent {
   filmIcon = faStar;
   tagIcon = faTag;
 
+  size = this.collegeData.length;
+  number: number[] = [0, 2, 4, 6, 8];
+  anyLeftColleges = true;
+  collegeShow = "";
+
   constructor(private httpClient: HttpClient) {}
   ngOnInit() {
     console.log(this.collegeData);
     var counter = 0;
-    $(window).scroll(function () {
-      if (
-        $(window).scrollTop() == $(document).height() - $(window).height() &&
-        counter < 2
-      ) {
-        appendData();
-      }
-    });
-    function appendData() {
-      var html = "";
-      for (var i = 0; i < 10; i++) {
-        html +=
-          '<p class="dynamic">Dynamic Data :  This is test data.<br />Next line.</p>';
-      }
-      $("#myScroll").append(html);
-      counter++;
+    var scrollLoad = true;
 
-      if (counter == 2)
-        $("#myScroll").append(
-          '<button id="uniqueButton" style="margin-left: 50%; background-color: powderblue;">Click</button><br /><br />'
-        );
-    }
+    $(window).scroll(
+      function (event) {
+        let div = $(this).get(0);
+        if (
+          scrollLoad &&
+          $(document).height() - $(window).height() - $(window).scrollTop() <=
+            800
+        ) {
+          if (this.number.length !== 25) {
+            const x: number = this.number.length;
+            for (let i = 2 * x; i < 2 * x + 9; i = i + 2) {
+              this.number.push(i);
+            }
+          }
+          if (this.number.length === 25) {
+            this.anyLeftColleges = false;
+            this.collegeShow = "No more colleges to show";
+          }
+        }
+      }.bind(this)
+    );
   }
 }
