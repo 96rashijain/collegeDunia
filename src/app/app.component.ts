@@ -32,8 +32,7 @@ export class AppComponent {
         let div = $(this).get(0);
         if (
           scrollLoad &&
-          $(document).height() - $(window).height() - $(window).scrollTop() <=
-            800
+          window.innerHeight + window.pageYOffset >= document.body.offsetHeight
         ) {
           if (this.number.length !== 25) {
             const x: number = this.number.length;
